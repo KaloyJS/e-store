@@ -1,1 +1,3 @@
-<h1>Hello there!</h1>
+<?php
+
+require_once __DIR__ . '/../bootstrap/init.php';

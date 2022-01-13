@@ -16,6 +16,7 @@
         "filp/whoops": "^2.14"  
     },
     "config": {
-        "optimize-autoloader": true
+        "optimize-autoloader": true,
+        "platform-check": false
     }
 }

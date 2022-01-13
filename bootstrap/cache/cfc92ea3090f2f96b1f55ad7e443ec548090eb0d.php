@@ -1,0 +1,1 @@
+<h1>Page not found here</h1><?php /**PATH /home/kaloy/sites/e-store/resources/views/errors/404.blade.php ENDPATH**/ ?>
