@@ -3,7 +3,6 @@ const gulp = require('gulp');
 const sass = require('gulp-sass')(require('sass'));
 // const { src, dest } = require('gulp');
 const concat = require('gulp-concat');
-const deletefile = require('gulp-delete-file');
 const bowerPath = './resources/assets/bower/vendor';
 const bundledCss = './public/css/all.css';
 
